@@ -1,6 +1,8 @@
 # PlaidML-Multi-GPU
 A demo application of deep learning framework based on OpenCL for multi-GPUs
 
+_Young-Woon Lee, Young-Jin Heo, Chang-Sik Cho, Byung-Gyu Kim*, Open-CL Based Multi GPU Acceleration for Video Object Detection, IEEE International Conference on Consumer Electronics (ICCE2021) (IEEE), Jan. 2021._
+
 ## 1. Environment
     - CPU: AMD Ryzen Threadripper 2970wx 24
     - GPU: AMD Radeon RX Vega 64 8GB (x2)
