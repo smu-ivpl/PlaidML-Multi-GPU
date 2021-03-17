@@ -95,8 +95,9 @@ when both GPUs are used:
 
 ![2-gpu](images/2-gpu.png)
 
-##### Reference
+## Reference
 We highly inspired from the following repositories for this application development:
 
 https://github.com/pierluigiferrari/ssd_keras
+
 https://github.com/tanakataiki/ssd_kerasV2
