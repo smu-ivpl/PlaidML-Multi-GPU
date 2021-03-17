@@ -20,14 +20,14 @@ A demo application of deep learning framework based on OpenCL for multi-GPUs
 ## 2. Usage
 
 ##### Create Virtual Environment using `conda` (anaconda3 or miniconda3)
-at root directory of PlaiML-Multi-GPU repository where has `environment.yml`
+at root directory of __PlaiML-Multi-GPU__ repository where has `environment.yml`
 ```
 $ conda env create
 $ conda activate plaidml_env
 (plaidml_env) $
 ```
 
-#####_Important:_
+_Important:_
 
 __1. This demo source code assumes that the currently running environment is equipped with two GPUs.__
 
@@ -36,7 +36,7 @@ __2. Use the modified plaidml's keras backend code accordingly, which is `src/ba
 __3. You must replace the original `backend.py` file of plaidml installed in the current environment with `src/backend.py` to operate normally.__  
 
 
-#####_Example:_
+_Example:_
 
 ```
 $ pwd
