@@ -20,7 +20,7 @@ A demo application of deep learning framework based on OpenCL for multi-GPUs
 ## 2. Usage
 
 ##### Create Virtual Environment using `conda` (anaconda3 or miniconda3)
-at root directory of __PlaiML-Multi-GPU__ repository where has `environment.yml`
+at root directory of __PlaidML-Multi-GPU__ repository where has `environment.yml`
 ```
 $ conda env create
 $ conda activate plaidml_env
